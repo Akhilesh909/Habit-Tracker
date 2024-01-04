@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "habit-tracker-app",
+    "slug": "habit-tracker-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "habit-tracker-app"
+}
